@@ -1,0 +1,27 @@
+# Install PyTorch and torchvision in the way recommended for your hardware first.
+# For this notebook bundle, use PyTorch >= 2.4 because older versions can disable
+# parts of the stack during import.
+torch>=2.4
+torchvision
+
+albumentations
+einops
+geopandas
+lightning
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+psutil
+ray[tune]
+rasterio
+rebasin
+scikit-learn
+scipy
+timm
+torchgeo
+torchmetrics
+tqdm
+transformers
+wandb
