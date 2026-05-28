@@ -92,3 +92,6 @@ If you would like to cite our work, please use the following reference:
 ## Code
 This repository incorporates code from the following source:
 * [SANE](https://github.com/HSG-AIML/SANE)
+
+## License
+This project is licensed under the MIT License.
